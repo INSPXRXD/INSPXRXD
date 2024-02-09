@@ -1,1 +1,1 @@
-### Бу
+<img src="assets/background.gif">
